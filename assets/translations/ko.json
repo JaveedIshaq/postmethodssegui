@@ -1,0 +1,8 @@
+{
+    "pleaseSelectCity": "도시를 선택하세요!",
+    "city":"도시",
+    "searchCity":"도시 검색",
+    "somethingWentWrong":"알 수었습니다 !",
+     "loadingWeather":"웹어를 로드",
+     "lastUpdatedAt":"기준 시간"
+}

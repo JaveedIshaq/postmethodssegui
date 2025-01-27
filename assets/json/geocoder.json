@@ -1,0 +1,20 @@
+{
+    "results": [
+      {
+        "id": 1174872,
+        "name": "Karachi",
+        "latitude": 24.8608,
+        "longitude": 67.0104,
+        "elevation": 8,
+        "feature_code": "PPLA",
+        "country_code": "PK",
+        "admin1_id": 1164807,
+        "timezone": "Asia/Karachi",
+        "population": 11624219,
+        "country_id": 1168579,
+        "country": "Pakistan",
+        "admin1": "Sindh"
+      }
+    ],
+    "generationtime_ms": 0.901103
+  }

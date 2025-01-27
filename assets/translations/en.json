@@ -1,0 +1,8 @@
+{
+    "pleaseSelectCity": "Please Select a City!",
+    "city":"City",
+    "searchCity":"Search City",
+    "somethingWentWrong":"Something went wrong!",
+    "loadingWeather":"Loading Weather",
+    "lastUpdatedAt":"Last Updated at"
+}

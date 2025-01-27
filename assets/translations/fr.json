@@ -1,0 +1,8 @@
+{
+    "pleaseSelectCity": "Veuillez sélectionner une ville !",
+    "city":"Ville",
+    "searchCity":"Rechercher une ville" ,
+    "somethingWentWrong":"Quelque chose s'est mal passe !",
+     "loadingWeather":"Chargement de l'air",
+     "lastUpdatedAt":"Dernière mise à jour le"
+}
